@@ -1,0 +1,12 @@
+{
+  "ticketCategoryID": "1157548636968861727",
+  "ticketNumber": 1,
+  "BACKGROUND": "https://media.discordapp.net/attachments/972977638425624576/1192798573067243651/IMG_20240105_145517_184.jpg?ex=65e1c23c&is=65cf4d3c&hm=46287c1b12ac78623dff6b31&=&format=webp",
+  "SECTIONS": [
+    {
+      "name": "أفتح التذكرة",
+      "roleID": "1163553082337132644",
+      "image": "https://media.discordapp.net/attachments/1191368267500105848/1192791467182276689/l_2.png?ex=65e1bb9e&is=65cf469e&hm=004725d707a57aa45f5057de&=&format=webp&quality=lossless&width=960&height=380"
+    }
+  ]
+}
